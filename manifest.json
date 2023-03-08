@@ -1,0 +1,1028 @@
+{
+  "homepages": [],
+  "source_base_path": "/home/runner/work/docfx/docfx/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "4VuxJwZHlJEAYfQkUe+6yZZjfOFE+MB5wG6/kOGwhvk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.BuildOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.BuildOptions.html",
+          "hash": "lCNb4PJhKJ7v/0Adse5G2vbegIr2HtYDxubsManoN7I="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.AdditionalNotes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.AdditionalNotes.html",
+          "hash": "McTKYjJmTWeONl+lcqeuTMOMC/RCDDmKW5lPasTLzOw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.ApiParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.ApiParameter.html",
+          "hash": "HJjgorRFpb90Lza0ZDdtWWPUK8lPh2LjKDIU/kzbWjE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.ArgumentInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.ArgumentInfo.html",
+          "hash": "Q2pbVrtwwHRLL4B1w6ydg4LAhZt+EcyVKE6w8XbfZvc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.AttributeInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.AttributeInfo.html",
+          "hash": "uKfOCUNQHdE9+ulZMMoiRfsPfTBPoMRxlzhjbgVQTU4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.ExceptionInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.ExceptionInfo.html",
+          "hash": "eM2S4KVEEMK6CzwK6SmHWwq587fCTYZCLFTOzq3Z560="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.ItemViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.ItemViewModel.html",
+          "hash": "La6uVT6m09OIQ2+FFpu5F8awftUndK+5JR78EMc6Iso="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.LinkInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.LinkInfo.html",
+          "hash": "FoQc071W/6SOlIxHF8oiGczf8yIJJMkASo2tbXj1V7I="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.LinkType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.LinkType.html",
+          "hash": "w3yMnLt7RuU8eX7kF2AQE5qOyjwfhHW836T8Tb4NqHM="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.MemberType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.MemberType.html",
+          "hash": "mvCPmbMoD85pz5J1WyAmNag9P8hKbF7E+rULiSnadbc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.NamedArgumentInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.NamedArgumentInfo.html",
+          "hash": "L2hTSH8DBnZt3k+TgeuTGDd+9qxHuTgrYS6NE0vQT/M="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.PageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.PageViewModel.html",
+          "hash": "bU8WYAqV5tgeUAmjp04TzCWNUeU5jKCNOh5te/6AiLE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.SyntaxDetailViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.SyntaxDetailViewModel.html",
+          "hash": "cZ+2DKIdskvmIaEbg4X3F7h3r5P3rgiD5dYRlfF3LlE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.SyntaxLanguage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.SyntaxLanguage.html",
+          "hash": "zp16maSP+a6nS2lpgdLvr2DMaPLj6jN7pCpyHC5HNXU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.DataContracts.ManagedReference.html",
+          "hash": "kPlQupQJG5feXwR8W6Lr1li3qa+hTPKIhHKQLHr4/38="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.Docset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.Docset.html",
+          "hash": "hJkK9Tg+6azFlJ7jOXSkFd7EZSwxfm3tL4TtWPFd5K8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.Dotnet.DotnetApiCatalog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.Dotnet.DotnetApiCatalog.html",
+          "hash": "4zNJkKBhA5GSskCTF+Jto1a8ok93VcGVL3hv5ThREwI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.Dotnet.DotnetApiOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.Dotnet.DotnetApiOptions.html",
+          "hash": "syfRmqX4XUw5uQPV1TGr5lbzBdH7S4umF2+HRUShnMQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.Dotnet.SymbolIncludeState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.Dotnet.SymbolIncludeState.html",
+          "hash": "DSXdCkFEHCKf/gVha9gLBvnqwKTb1Q7pRFhz6MGL7/Y="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.Dotnet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.Dotnet.html",
+          "hash": "Ryy4oadcFJcVuQAIrWLbw7ThvHAzPZh3boQzEXKMpf0="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.DocAsCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.DocAsCode.html",
+          "hash": "79DPGHOCIfC0tRmxHZMLZ4l79n6RJCHPoCECDxePh2E="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "CPTcbAXL2VKWyw5m3bAMd2mIuWZNlsnJsZaIuicsyAE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "codesnippet/Rtf/Hyperlink/RtfDocumentProcessor.cs",
+      "output": {
+        "resource": {
+          "relative_path": "codesnippet/Rtf/Hyperlink/RtfDocumentProcessor.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "codesnippet/Rtf/RtfBuildStep.cs",
+      "output": {
+        "resource": {
+          "relative_path": "codesnippet/Rtf/RtfBuildStep.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "codesnippet/Rtf/RtfDocumentProcessor.cs",
+      "output": {
+        "resource": {
+          "relative_path": "codesnippet/Rtf/RtfDocumentProcessor.cs"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/config.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/config.html",
+          "hash": "94f7koQqxuO4GYUUpIy+2j8kQU63XGKJbtH5Et/suU8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/dotnet-api-docs.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/dotnet-api-docs.html",
+          "hash": "GwRBO7tgkVEM+UQs5tonRfNziGwdNJqUlnrga5kvdBQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/dotnet-yaml-format.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/dotnet-yaml-format.html",
+          "hash": "CEu8s28fRzH7k/62vgBYJQFrtiiPgvV784TnnMP64HI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/markdown.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/markdown.html",
+          "hash": "DEAGuJO7/NaxXWVOd8qPK+/1Yxtmkq3htIILjmHqCCc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/pdf.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/pdf.html",
+          "hash": "3VVTgQWD7q8imViEyhS1IXfJPjjWwmKj8mhk7lGX4EA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/rest-api-docs.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/rest-api-docs.html",
+          "hash": "6xEGsw3hC+6ycK6zas1HAeEULe+AjdcrKuA2D0JvZpw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/table-of-contents.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/table-of-contents.html",
+          "hash": "PBBWJYHV9YOuHrhs0tG2cV/MDW+a3dc4LmgRWq3gjo4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/template.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/template.html",
+          "hash": "G5lbHKGvQ6sg36C1JvD8w3LjkR+Nmw1mQm5v+83yKAo="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html",
+          "hash": "kX0C2A737gXdAHyqQsck59tqFZOPG5LXbs3/p3uuyGU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/cake-contrib-addin-large.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/cake-contrib-addin-large.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/darkfx.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/darkfx.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/default.green.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/default.green.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/default.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/default.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/discordfx.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/discordfx.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/docfx.plantuml.plugin.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/docfx.plantuml.plugin.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/docfxquickstart.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/docfxquickstart.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/docfxtocgenerator.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/docfxtocgenerator.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/doclanguagetranslator.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/doclanguagetranslator.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/doclinkchecker.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/doclinkchecker.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/material.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/material.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/mathew.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/mathew.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/memberpage.default.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/memberpage.default.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/minimal.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/minimal.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/rest.operationpage.default.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/rest.operationpage.default.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/rest.tagpage.default.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/rest.tagpage.default.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/roel4ez-feather.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/roel4ez-feather.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/roel4ez-modal.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/roel4ez-modal.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/singulinkfx.screenshot.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/singulinkfx.screenshot.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "extensions/images/unityfx.png",
+      "output": {
+        "resource": {
+          "relative_path": "extensions/images/unityfx.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "dashboard",
+      "source_relative_path": "extensions/packages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "extensions/packages.html",
+          "hash": "KNqR1Ls4musCL21aGHZAUsogZecxsBg6AGEyzOxKxZA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "dashboard",
+      "source_relative_path": "extensions/templates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "extensions/templates.html",
+          "hash": "mnj2MpVwhYO0rjuppjr6FLKwNtXEgMRFaliCaYhGx/E="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "extensions/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "extensions/toc.html",
+          "hash": "ZkubZjY3IFzbmMOtTL7joaa2+r9MfiOXvN0H0WqkD5E="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "dashboard",
+      "source_relative_path": "extensions/tools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "extensions/tools.html",
+          "hash": "vvnEfNeLYAQKR+kcHvNwldMxmFqyvxMINxPFKgBJAF8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "SJGniXBlykEAqRPGfqyYh7CzG/BzZE2/gFtET0OVr+A="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "spec/docfx_document_schema.md",
+      "output": {
+        ".html": {
+          "relative_path": "spec/docfx_document_schema.html",
+          "hash": "zd/S5to+DDyslSj8Tq5kiziy1uSiSeRB8PH0l5r5FWY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "spec/docfx_flavored_markdown.md",
+      "output": {
+        ".html": {
+          "relative_path": "spec/docfx_flavored_markdown.html",
+          "hash": "VNGX9A3wWlAJw5xdRyN6Co3pRK0RiptobVg8uPPsm0A="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "spec/images/docfx_workflow.png",
+      "output": {
+        "resource": {
+          "relative_path": "spec/images/docfx_workflow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "spec/images/docfx_workflow.vsdx",
+      "output": {
+        "resource": {
+          "relative_path": "spec/images/docfx_workflow.vsdx"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "spec/images/docfx_workflow_highlevel.png",
+      "output": {
+        "resource": {
+          "relative_path": "spec/images/docfx_workflow_highlevel.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "spec/images/sdp_workflow.png",
+      "output": {
+        "resource": {
+          "relative_path": "spec/images/sdp_workflow.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "spec/metadata_dotnet_spec.md",
+      "output": {
+        ".html": {
+          "relative_path": "spec/metadata_dotnet_spec.html",
+          "hash": "3pMGGeB9pw7Ble0/0zqvherF7L+XBdTpbWgtbylcHTE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "spec/metadata_format_spec.md",
+      "output": {
+        ".html": {
+          "relative_path": "spec/metadata_format_spec.html",
+          "hash": "gdHDvGr9dIzSckxIgfa3sCdq7qFhvHeW8dZyENm+fBc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "spec/sdp_design_spec.md",
+      "output": {
+        ".html": {
+          "relative_path": "spec/sdp_design_spec.html",
+          "hash": "3zXMpH922OIdJCNn4N229Gjn2vY9Evs1fTcuWj+87J4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "spec/triple_slash_comments_spec.md",
+      "output": {
+        ".html": {
+          "relative_path": "spec/triple_slash_comments_spec.html",
+          "hash": "3pMGGeB9pw7Ble0/0zqvherF7L+XBdTpbWgtbylcHTE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "ujrApczcebkPTDgiUW2WmW1Idd/q5Pm5TTL2WhfUPkU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/advanced_support_hyperlink.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/advanced_support_hyperlink.html",
+          "hash": "lh1fZxHuen5Xtq1OKo+5dWNl+tDb3+Z7vdECO/e5eAE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/docfx.exe_user_manual.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/docfx.exe_user_manual.html",
+          "hash": "ivF3rmnl6mMW/E6U1ILvwuVMrwJA61xk88EylmCFNMA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/docfx_getting_started.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/docfx_getting_started.html",
+          "hash": "c0RsUC9lLYCPkLeXC/MW0RoYPg2ItUEAXzgz6HIkxQA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/howto_add_a_customized_post_processor.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/howto_add_a_customized_post_processor.html",
+          "hash": "jVmSsS4LAFENnChMF31PpxJVsDQ3KcUYD2jQRfxzvNw="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/howto_build_your_own_type_of_documentation_with_custom_plug-in.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/howto_build_your_own_type_of_documentation_with_custom_plug-in.html",
+          "hash": "f8tVs37+ZUV/3SweBsDQIdrdqs3aNR8azom+cu9XQWo="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/howto_create_custom_template.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/howto_create_custom_template.html",
+          "hash": "8VkNwy9LnoUegChlDdglBrNyxHYYSc7Iy0FgB8IJ6Q4="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/howto_filter_out_unwanted_apis_attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/howto_filter_out_unwanted_apis_attributes.html",
+          "hash": "RmxFouRXk9IFlZArFfY79R3q+OlKqJE643ncot9+5Hk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "tutorial/images/simple_web_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "tutorial/images/simple_web_page.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "tutorial/images/toc_web_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "tutorial/images/toc_web_page.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "tutorial/images/web_page_with_extra_property.png",
+      "output": {
+        "resource": {
+          "relative_path": "tutorial/images/web_page_with_extra_property.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/intro_overwrite_files.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/intro_overwrite_files.html",
+          "hash": "QJ0p6+Py5E7Zp9BONN35kkVHhjn56lGr4PKKTGS4ETA="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/intro_rest_api_documentation.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/intro_rest_api_documentation.html",
+          "hash": "4+OA/Mj35j7vYLy6FFpQws+8ElTjQ+i7sRTKRWPEcVk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/intro_template.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/intro_template.html",
+          "hash": "nTZsaHrsmkThJvd2n43bx4MefY681mMaPlaqqv38HfI="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/intro_toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/intro_toc.html",
+          "hash": "hhpAcILuHwchZbbyh/GsNcs0Bx517T18oZ8r9hwxrIQ="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/links_and_cross_references.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/links_and_cross_references.html",
+          "hash": "itk36eLNfMamIBWfbiH/FCaXMZYDVwH/zClr/bdzCZY="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/universalreference/gen_doc_for_js.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/universalreference/gen_doc_for_js.html",
+          "hash": "T58ypDQiomoAoGsIGDNHCrvL+V2iNWJDMq+QiE88g1s="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/universalreference/gen_doc_for_ts.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/universalreference/gen_doc_for_ts.html",
+          "hash": "cis8lQ33enh1nl+vaqpAVs42TSMrLiPXf93I9BxiUsE="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/universalreference/intro_multiple_langs_support.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/universalreference/intro_multiple_langs_support.html",
+          "hash": "Fbb0IjJL53ev2hRHPogRguZMudBfYFk0UupGIPKYuSk="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/walkthrough/advanced_walkthrough.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/walkthrough/advanced_walkthrough.html",
+          "hash": "WhPWbX82t0amz4MQxvBJX1QwuL+VYQb+JIaW9tg7mpg="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/walkthrough/walkthrough_create_a_docfx_project.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/walkthrough/walkthrough_create_a_docfx_project.html",
+          "hash": "4RLfuq77qYlYtKppPupEN6HYwR1xwIyPn9aXi4FSY2s="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/walkthrough/walkthrough_create_a_docfx_project_2.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/walkthrough/walkthrough_create_a_docfx_project_2.html",
+          "hash": "90ywfW+ISwAAdMzYjays/AgealcdJWNNgNMUGJ9dC10="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/walkthrough/walkthrough_generate_pdf.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/walkthrough/walkthrough_generate_pdf.html",
+          "hash": "QRcbHbGFVeCkl3eAsBW+p893WLsJ0Ndt1omQxoE3WDU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tutorial/walkthrough/walkthrough_overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "tutorial/walkthrough/walkthrough_overview.html",
+          "hash": "4RLfuq77qYlYtKppPupEN6HYwR1xwIyPn9aXi4FSY2s="
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

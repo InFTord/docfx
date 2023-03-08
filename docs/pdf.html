@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+
+  <head>
+    <meta charset="utf-8">
+      <title>Create PDF Files | docfx </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Create PDF Files | docfx ">
+    
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../styles/docfx.min.css">
+      <link rel="stylesheet" href="../styles/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+    
+    <meta name="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="docfx">
+  docfx
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="create-pdf-files">Create PDF Files</h1>
+
+<p>Docfx produces PDF files based on the TOC structure.</p>
+<h2 id="install-wkhtmltopdf">Install wkhtmltopdf</h2>
+<p>To build PDF files, first install <code>wkhtmltopdf</code> by downloading the latest binary from the <a href="https://wkhtmltopdf.org/downloads.html">official site</a> or install using chocolatey: <code>choco install wkhtmltopdf</code>.</p>
+<p>Make sure the <code>wkhtmltopdf</code> command is added to <code>PATH</code> environment variable and is available in the terminal.</p>
+<h2 id="pdf-config">PDF Config</h2>
+<p>Add a <code>pdf</code> section in <code>docfx.json</code>:</p>
+<pre><code class="lang-json">{
+  &quot;pdf&quot;: {
+    &quot;content&quot;: [{
+      &quot;files&quot;: [ &quot;**/*.{md,yml}&quot; ]
+    }],
+    &quot;wkhtmltopdf&quot;: {
+      &quot;additionalArguments&quot;: &quot;--enable-local-file-access&quot;
+    },
+  }
+}
+</code></pre>
+<p>Most of the config options are the same as <code>build</code> config. The <code>wkhtmltopdf</code> config contains additional details to control <code>wkhtmltopdf</code> behavior:</p>
+<ul>
+<li><code>filePath</code>: Path to <code>wkhtmltopdf.exe</code>.</li>
+<li><code>additionalArguments</code>: Additional command line arguments passed to <code>wkhtmltopdf</code>. Usually needs <code>--enable-local-file-access</code> to allow access to local files.</li>
+</ul>
+<p>Running <code>docfx</code> command againt the above configuration produces a PDF file for every TOC included in the <code>content</code> property. The PDF files are placed under the <code>_site_pdf</code> folder based on the TOC name.</p>
+<p>See <a href="https://github.com/dotnet/docfx/tree/main/samples/seed">this sample</a> on an example PDF config.</p>
+<h2 id="add-cover-page">Add Cover Page</h2>
+<p>A cover page is the first PDF page before the TOC page.</p>
+<p>To add a cover page, add a <code>cover.md</code> file alongside <code>toc.yml</code>. The content of <code>cover.md</code> will be rendered as the PDF cover page.</p>
+</article>
+          </div>
+
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/InFTord/docfx/blob/main/docs/docs/pdf.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <div class="footer">
+          <div class="container">
+      
+      <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script type="text/javascript" src="../styles/docfx.min.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
